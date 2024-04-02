@@ -1,1 +1,1 @@
-# CSS &amp; JavaScript Animation of Light Bulb with Color Picker
+# Light Bulb CSS &amp; JavaScript Animation with Color Picker
